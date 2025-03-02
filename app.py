@@ -9,7 +9,7 @@ from langchain_core.prompts import (
 )  # Importing prompt templates for structuring chat messages
 
 # API key for accessing the Groq service
-groq_api_key = ""
+groq_api_key = "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"
 
 # Display the title and subtitle of the app
 st.title("👩‍💻 BS Chatbot")  # Title with an emoji
